@@ -1,4 +1,4 @@
-#  Screen Time Analysis & Cognitive Efficiency
+#  Screen Time Analysis & Cognitive Efficiency 
 
 ##  Project Overview
 
@@ -26,9 +26,9 @@ The project follows a complete **end-to-end data analytics pipeline**, including
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
-### 🔹 Programming & Analysis
+###  Programming & Analysis
 
 * Python
 * Pandas
@@ -49,7 +49,7 @@ The project follows a complete **end-to-end data analytics pipeline**, including
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 screen-time-analysis/
