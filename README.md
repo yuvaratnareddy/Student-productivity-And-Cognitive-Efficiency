@@ -34,16 +34,16 @@ The project follows a complete **end-to-end data analytics pipeline**, including
 * Pandas
 * NumPy
 
-### 🔹 Visualization
+###  Visualization
 
 * Matplotlib
 * Seaborn
 
-### 🔹 Dashboard
+###  Dashboard
 
 * Power BI
 
-### 🔹 Environment
+###  Environment
 
 * Jupyter Notebook
 
