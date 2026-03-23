@@ -1,6 +1,6 @@
-# 📊 Screen Time Analysis & Cognitive Efficiency
+#  Screen Time Analysis & Cognitive Efficiency
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing how screen time and digital behavior impact **productivity, sleep patterns, and cognitive performance**.
 
@@ -16,7 +16,7 @@ The project follows a complete **end-to-end data analytics pipeline**, including
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze the relationship between **screen time and productivity**
 * Study the impact of **social media usage on cognitive performance**
@@ -72,9 +72,9 @@ screen-time-analysis/
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
-### 1️⃣ Data Collection
+### 1️ Data Collection
 
 * Collected dataset containing:
 
@@ -86,7 +86,7 @@ screen-time-analysis/
 
 ---
 
-### 2️⃣ Data Cleaning
+### 2️ Data Cleaning
 
 * Handled missing values
 * Removed inconsistencies
@@ -95,7 +95,7 @@ screen-time-analysis/
 
 ---
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3️ Exploratory Data Analysis (EDA)
 
 * Distribution analysis using histograms & KDE plots
 * Correlation analysis between variables
@@ -104,7 +104,7 @@ screen-time-analysis/
 
 ---
 
-### 4️⃣ Visualization
+### 4️ Visualization
 
 * Scatter plots for relationship analysis
 * Box plots for distribution understanding
@@ -113,7 +113,7 @@ screen-time-analysis/
 
 ---
 
-### 5️⃣ Power BI Dashboard
+### 5️ Power BI Dashboard
 
 * Interactive dashboard created to:
 
@@ -124,7 +124,7 @@ screen-time-analysis/
 
 ---
 
-### 6️⃣ Presentation
+### 6️ Presentation
 
 * Created a structured PPT to:
 
@@ -134,17 +134,17 @@ screen-time-analysis/
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-* 📉 **Higher screen time leads to lower productivity**
-* 📱 **Excessive social media usage negatively affects cognitive performance**
-* 😴 **Adequate sleep significantly improves cognitive score**
-* 📚 **Study hours positively impact productivity**
-* ⚠️ **High screen time increases variability in performance**
+*  **Higher screen time leads to lower productivity**
+*  **Excessive social media usage negatively affects cognitive performance**
+*  **Adequate sleep significantly improves cognitive score**
+*  **Study hours positively impact productivity**
+*  **High screen time increases variability in performance**
 
 ---
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 
 * Interactive filters for better analysis
 * Comparative charts for performance metrics
@@ -153,30 +153,12 @@ screen-time-analysis/
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates that **digital habits significantly influence productivity and cognitive efficiency**.
 
 By managing screen time, reducing unnecessary social media usage, and maintaining proper sleep, individuals can **enhance performance and overall well-being**.
 
----
 
-## 🔮 Future Scope
 
-* Apply Machine Learning models for prediction
-* Build a real-time monitoring system
-* Integrate mobile usage tracking APIs
-* Develop personalized productivity recommendations
 
----
-
-## 👨‍💻 Author
-
-**Yuva**
-Aspiring Data Analyst | Python | Power BI | SQL
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share your feedback!
